@@ -1,0 +1,507 @@
+.ch-item {
+	width: 100%;
+	height: 100%;
+	//border-radius: 50%;
+	position: relative;
+	cursor: default;
+		
+	-webkit-transition: all 0.9s ease-in-out;
+	-moz-transition: all 0.9s ease-in-out;
+	-o-transition: all 0.9s ease-in-out;
+	-ms-transition: all 0.9s ease-in-out;
+	transition: all 0.9s ease-in-out;
+}
+/*---1---*/
+
+.ch-img-AMPOX { 
+	background-image: url(../images/Medicines/AMPOX.jpg);
+    background-size: 180px 180px;
+}
+/*---2---*/
+
+.ch-img-AMX { 
+	background-image: url(../images/Medicines/AMX.jpg);
+    background-size: 180px 180px;
+}
+
+/*---3---*/
+
+.ch-img-ARIZO { 
+	background-image: url(../images/Medicines/ARIZO.jpg);
+    background-size: 180px 180px;
+}
+
+/*---4---*/
+
+.ch-img-AZISER { 
+	background-image: url(../images/Medicines/AZISER.jpg);
+    background-size: 180px 180px;
+}
+
+/*---5---*/
+
+.ch-img-B-N-TONE { 
+	background-image: url(../images/Medicines/B-N-TONE.jpg);
+    background-size: 180px 180px;
+}
+
+/*---6---*/
+
+.ch-img-CITOX-1 { 
+	background-image: url(../images/Medicines/CITOX-1.jpg);
+    background-size: 180px 180px;
+}
+
+/*---7---*/
+
+.ch-img-CITOX-2 { 
+	background-image: url(../images/Medicines/CITOX-2.jpg);
+    background-size: 180px 180px;
+}
+
+/*---8---*/
+
+.ch-img-CLOZY-2 { 
+	background-image: url(../images/Medicines/CLOZY-2.jpg);
+    background-size: 180px 180px;
+}
+
+/*---9---*/
+
+.ch-img-CLOZY-05 { 
+	background-image: url(../images/Medicines/CLOZY-05.jpg);
+    background-size: 180px 180px;
+}
+
+/*---10---*/
+
+.ch-img-CVM-FORTE{ 
+	background-image: url(../images/Medicines/CVM-FORTE.jpg);
+    background-size: 180px 180px;
+}
+
+/*---11---*/
+
+.ch-img-CYPUP-SYRUP { 
+	background-image: url(../images/Medicines/CYPUP-SYRUP.jpg);
+    background-size: 180px 180px;
+}
+
+/*---12---*/
+
+.ch-img-DIP-ER-500 { 
+	background-image: url(../images/Medicines/DIP-ER-500.jpg);
+    background-size: 180px 180px;
+}
+
+/*---13---*/
+
+.ch-img-EPITAM { 
+	background-image: url(../images/Medicines/EPITAM.jpg);
+    background-size: 180px 180px;
+}
+
+/*---14---*/
+
+.ch-img-ESCI { 
+	background-image: url(../images/Medicines/ESCI.jpg);
+    background-size: 180px 180px;
+}
+
+/*---15---*/
+
+.ch-img-ESCI-FORTE { 
+	background-image: url(../images/Medicines/ESCI-FORTE.jpg);
+    background-size: 180px 180px;
+}
+
+/*---16---*/
+
+.ch-img-FLUMIGR-5-10 { 
+	background-image: url(../images/Medicines/FLUMIGR-5-10.jpg);
+    background-size: 180px 180px;
+}
+
+/*---17---*/
+
+.ch-img-G-D-FIT { 
+	background-image: url(../images/Medicines/G-D-FIT.jpg);
+    background-size: 180px 180px;
+}
+
+/*---18---*/
+
+.ch-img-LAXO { 
+	background-image: url(../images/Medicines/LAXO.jpg);
+    background-size: 180px 180px;
+}
+
+/*---19---*/
+
+.ch-img-LOXPIN { 
+	background-image: url(../images/Medicines/LOXPIN.jpg);
+    background-size: 180px 180px;
+}
+
+/*---20---*/
+
+.ch-img-LP-30 { 
+	background-image: url(../images/Medicines/LP-30.jpg);
+    background-size: 180px 180px;
+}
+
+/*---21---*/
+
+.ch-img-LV-PERFECT { 
+	background-image: url(../images/Medicines/LV-PERFECT.jpg);
+    background-size: 180px 180px;
+}
+
+/*---22---*/
+
+.ch-img-MIRZA { 
+	background-image: url(../images/Medicines/MIRZA.jpg);
+    background-size: 180px 180px;
+}
+
+/*---23---*/
+
+.ch-img-NESPRO { 
+	background-image: url(../images/Medicines/NESPRO.jpg);
+    background-size: 180px 180px;
+}
+
+/*---24---*/
+
+.ch-img-NIMOF { 
+	background-image: url(../images/Medicines/NIMOF.jpg);
+    background-size: 180px 180px;
+}
+
+/*---25---*/
+
+.ch-img-NIMSTAR-D { 
+	background-image: url(../images/Medicines/NIMSTAR-D.jpg);
+    background-size: 180px 180px;
+}
+
+/*---26---*/
+
+.ch-img-NIMSTAR-PLUS { 
+	background-image: url(../images/Medicines/NIMSTAR-PLUS.jpg);
+    background-size: 180px 180px;
+}
+
+/*---27---*/
+
+.ch-img-NITROZUN-10 { 
+	background-image: url(../images/Medicines/NITROZUN-10.jpg);
+    background-size: 180px 180px;
+}
+
+/*---28---*/
+
+.ch-img-NUCALM-PLUS { 
+	background-image: url(../images/Medicines/NUCALM-PLUS.jpg);
+    background-size: 180px 180px;
+}
+
+/*---29---*/
+
+.ch-img-NUCETAM-400-800 { 
+	background-image: url(../images/Medicines/NUCETAM-400-800.jpg);
+    background-size: 180px 180px;
+}
+
+/*---30---*/
+
+.ch-img-NUCET-L { 
+	background-image: url(../images/Medicines/NUCET-L.jpg);
+    background-size: 180px 180px;
+}
+
+/*---31---*/
+
+.ch-img-NUDOL { 
+	background-image: url(../images/Medicines/NUDOL.jpg);
+    background-size: 180px 180px;
+}
+
+/*---32---*/
+
+.ch-img-NUHEXY { 
+	background-image: url(../images/Medicines/NUHEXY.jpg);
+    background-size: 180px 180px;
+}
+
+/*---33---*/
+
+.ch-img-NULAM-SR-1 { 
+	background-image: url(../images/Medicines/NULAM-SR-1.jpg);
+    background-size: 180px 180px;
+}
+
+/*---34---*/
+
+.ch-img-NULAM-SR-2 { 
+	background-image: url(../images/Medicines/NULAM-SR-2.jpg);
+    background-size: 180px 180px;
+}
+
+/*---35---*/
+
+.ch-img- { 
+	background-image: url(../images/Medicines/.jpg);
+    background-size: 180px 180px;
+}
+
+/*---36---*/
+
+.ch-img- { 
+	background-image: url(../images/Medicines/.jpg);
+    background-size: 180px 180px;
+}
+
+/*---37---*/
+
+.ch-img-NUSERRA-PLUS { 
+	background-image: url(../images/Medicines/NUSERRA-PLUS.jpg);
+    background-size: 180px 180px;
+}
+
+/*---38---*/
+
+.ch-img-OLAX { 
+	background-image: url(../images/Medicines/OLAX.jpg);
+    background-size: 180px 180px;
+}
+
+/*---39---*/
+
+.ch-img-OXIMIN { 
+	background-image: url(../images/Medicines/OXIMIN.jpg);
+    background-size: 180px 180px;
+}
+
+/*---40---*/
+
+.ch-img-Q-SEARCH { 
+	background-image: url(../images/Medicines/Q-SEARCH.jpg);
+    background-size: 180px 180px;
+}
+
+/*---41---*/
+
+.ch-img-ROTH{ 
+	background-image: url(../images/Medicines/ROTH.jpg);
+    background-size: 180px 180px;
+}
+
+/*---42---*/
+
+.ch-img-RPN-1-2-3 { 
+	background-image: url(../images/Medicines/RPN-1-2-3.jpg);
+    background-size: 180px 180px;
+}
+
+/*---43---*/
+
+.ch-img-RPN-PLUS { 
+	background-image: url(../images/Medicines/RPN-PLUS.jpg);
+    background-size: 180px 180px;
+}
+
+/*---44---*/
+
+.ch-img-SER { 
+	background-image: url(../images/Medicines/SER.jpg);
+    background-size: 180px 180px;
+}
+
+/*---45---*/
+
+.ch-img-SIZOLAM { 
+	background-image: url(../images/Medicines/SIZOLAM.jpg);
+    background-size: 180px 180px;
+}
+
+/*---46---*/
+
+.ch-img-SPEEDY { 
+	background-image: url(../images/Medicines/SPEEDY.jpg);
+    background-size: 180px 180px;
+}
+
+/*---47---*/
+
+.ch-img- { 
+	background-image: url(../images/Medicines/.jpg);
+    background-size: 180px 180px;
+}
+
+/*---48---*/
+
+.ch-img- { 
+	background-image: url(../images/Medicines/.jpg);
+    background-size: 180px 180px;
+}
+
+
+
+
+
+.ch-img-1 { 
+	background-image: url(../images/mirza.jpg);
+}
+
+.ch-img-2 { 
+	background-image: url(../images/nu.png) ;
+}
+
+.ch-img-3 { 
+	background-image: url(../images/icon3.png);
+}
+.ch-img-4 { 
+	background-image: url(../images/icon4.png);
+}
+
+.ch-img-5{ 
+	background-image: url(../images/icon5.png) ;
+}
+
+.ch-img-6 { 
+	background-image: url(../images/icon6.png);
+}
+.ch-img-7 { 
+	background-image: url(../images/icon1.png);
+}
+
+.ch-img-8 { 
+	background-image: url(../images/icon2.png) ;
+}
+
+
+.ch-info {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	opacity: 0;
+	
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	
+	-webkit-transform: scale(0);
+	-moz-transform: scale(0);
+	-o-transform: scale(0);
+	-ms-transform: scale(0);
+	transform: scale(0);
+	
+	-webkit-backface-visibility: hidden; /*for a smooth font */
+
+}
+.ch-info img
+{
+	width:33px;
+	height:34px;
+	margin-top:18%;
+}
+.ch-info h3 {
+	color: #fff;
+	text-transform: uppercase;
+	position: relative;
+	letter-spacing: 2px;
+	font-size: 15px;
+	padding: 15px 0 0 0;
+	text-shadow: 
+		0 0 1px #fff, 
+		0 1px 2px rgba(0,0,0,0.3);
+}
+
+.ch-info p {
+	color: #fff;
+	padding: 10px 5px;
+	font-style: italic;
+	margin: 0 30px;
+	font-size: 12px;
+}
+
+.ch-info p a {
+	display: block;
+	color: #fff;
+	color: rgba(255,255,255,0.7);
+	font-style: normal;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 9px;l
+	letter-spacing: 1px;
+	padding-top: 4px;
+}
+
+.ch-info p a:hover {
+	color: #fff222;
+	color: rgba(255,242,34, 0.8);
+}
+
+.ch-item:hover {
+	box-shadow: 
+		inset 0 0 0 110px rgba(27,188,155, 0.8),
+		inset 0 0 0 16px rgba(255,255,255,0.8),
+		0 1px 2px rgba(0,0,0,0.1);
+}
+
+.ch-item:hover .ch-info {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-o-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);	
+}
+.ch-grid {
+	margin: 20px 0 0 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+
+.ch-grid:after,
+.ch-item:before {
+	content: '';
+    display: table;
+}
+
+.ch-grid:after {
+	clear: both;
+}
+
+.ch-grid li {
+	width: 176px;
+	height: 180px;
+	display: inline-block;
+	margin: 20px;
+}
+@media only screen and (max-width:1366px) and (min-width:1280px)
+
+{
+.ch-grid li {
+	margin: 10px;
+}
+}
+@media only screen and (max-width:640px) and (min-width:480px)
+{
+.ch-grid li {
+	margin: 0px;
+}
+}
+@media only screen and (max-width:320px) and (min-width:240px)
+{
+.ch-grid li {
+	margin: 0px;
+}
+}
