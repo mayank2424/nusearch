@@ -270,8 +270,10 @@ background-color: #1BBC9B;
 	width: 62%;
 }
 #filters li {
-	float:left;
-	margin-left: 17px;
+    /* float:left; */
+    display: inline-block;
+    /* margin-left: 17px; */
+    margin:0.4rem;
 }
 #filters li span {
 	display: block;

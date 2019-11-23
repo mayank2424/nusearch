@@ -1,0 +1,576 @@
+.ch-item {
+	width: 100%;
+	height: 100%;
+	//border-radius: 50%;
+	position: relative;
+	cursor: default;
+		
+	-webkit-transition: all 0.9s ease-in-out;
+	-moz-transition: all 0.9s ease-in-out;
+	-o-transition: all 0.9s ease-in-out;
+	-ms-transition: all 0.9s ease-in-out;
+	transition: all 0.9s ease-in-out;
+}
+
+/* -------category 1 ---------*/
+/*---1---*/
+
+.ch-img-DIP-ER { 
+	background-image: url(../IMG-SRC/ANTI-EPILEPTICS/DIP-ER.jpg);
+    background-size: 180px 180px;
+}
+/*---2---*/
+
+.ch-img-ELEPSY { 
+	background-image: url(../IMG-SRC/ANTI-EPILEPTICS/ELEPSY.jpg);
+    background-size: 180px 180px;
+}
+
+/*---3---*/
+
+.ch-img-EPIOX-300-600 { 
+	background-image: url(../IMG-SRC/ANTI-EPILEPTICS/EPIOX-300-600.jpg);
+    background-size: 180px 180px;
+}
+
+/*---4---*/
+
+.ch-img-EPITAM { 
+	background-image: url(../IMG-SRC/ANTI-EPILEPTICS/EPITAM.jpg);
+    background-size: 180px 180px;
+}
+
+/*---5---*/
+
+.ch-img-SOVA-CHRONO { 
+	background-image: url(../IMG-SRC/ANTI-EPILEPTICS/SOVA-CHRONO.jpg);
+    background-size: 180px 180px;
+}
+
+/*---6---*/
+
+
+.ch-img-VALSOV-CR { 
+	background-image: url(../IMG-SRC/ANTI-EPILEPTICS/VALSOV-CR.jpg);
+    background-size: 180px 180px;
+}
+
+
+/* ------------Categoary 1 ends ------------- */
+
+
+
+
+/* ----------Category 2 ends ---------------- */
+/*---7---*/
+
+.ch-img-AMPOX-FX-VELFEX { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/AMPOX-FX-VELFEX.jpg);
+    background-size: 180px 180px;
+}
+
+/*---8---*/
+
+.ch-img-AMX-50 { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/AMX-50.jpg);
+    background-size: 180px 180px;
+}
+
+/*---9---*/
+
+.ch-img-CITOX-IMIZEP-LITHICA { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/CITOX-IMIZEP-LITHICA.jpg);
+    background-size: 180px 180px;
+}
+
+/*---10---*/
+
+.ch-img-D-LOXE-30{ 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/D-LOXE-30.jpg);
+    background-size: 180px 180px;
+}
+
+/*---11---*/
+
+.ch-img-D-VELFEX-SR-50-100 { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/D-VELFEX-SR-50-100.jpg);
+    background-size: 180px 180px;
+}
+
+/*---12---*/
+
+.ch-img-ESCI-FORTE { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/ESCI-FORTE.jpg);
+    background-size: 180px 180px;
+}
+
+
+
+/*---14---*/
+
+.ch-img-ESCI { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/ESCI.jpg);
+    background-size: 180px 180px;
+}
+
+
+/*---16---*/
+
+.ch-img-FLEX-50-100 { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/FLEX-50-100.jpg);
+    background-size: 180px 180px;
+}
+
+/*---17---*/
+
+.ch-img-MIRZA { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/MIRZA.jpg);
+    background-size: 180px 180px;
+}
+
+/*---18---*/
+
+.ch-img-PXT-CR { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/PXT-CR.jpg);
+    background-size: 180px 180px;
+}
+
+.ch-img-SER { 
+	background-image: url(../IMG-SRC/ANTI-DEPRESSANTS/SER.jpg);
+    background-size: 180px 180px;
+}
+
+
+
+/* -----------------Category 2 ends ---------------------- */
+
+/*---19---*/
+
+
+/* ----------------Category 3 starts ------------------------ */
+
+.ch-img-NUHEXY { 
+	background-image: url(../IMG-SRC/ANTI-PARKINSONIAN/NUHEXY.jpg);
+    background-size: 180px 180px;
+}
+
+
+/* ----------------Category 3 ends ------------------------ */
+
+
+/*---20---*/
+
+/* -----------------Category 4 starts ------------------------ */
+
+.ch-img-ARIZO { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/ARIZO.jpg);
+    background-size: 180px 180px;
+}
+
+/*---21---*/
+
+.ch-img-LOXPIN { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/LOXPIN.jpg);
+    background-size: 180px 180px;
+}
+
+/*---22---*/
+
+/* .ch-img-MIRZA { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/MIRZA.jpg);
+    background-size: 180px 180px;
+} */
+
+/*---23---*/
+
+.ch-img-NUCALM-PLUS { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/NUCALM-PLUS.jpg);
+    background-size: 180px 180px;
+}
+
+/*---24---*/
+
+.ch-img-OLAX-MD { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/OLAX-MD.jpg);
+    background-size: 180px 180px;
+}
+
+/*---25---*/
+
+.ch-img-Q-SEARCH-SR { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/Q-SEARCH-SR.jpg);
+    background-size: 180px 180px;
+}
+
+/*---26---*/
+
+.ch-img-RPL-PLUS-LS { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/RPL-PLUS-LS.jpg);
+    background-size: 180px 180px;
+}
+
+/*---27---*/
+
+.ch-img-RPN-1-2-3 { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/RPN-1-2-3.jpg);
+    background-size: 180px 180px;
+}
+
+/*---28---*/
+
+.ch-img-SIZOLAM { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/SIZOLAM.jpg);
+    background-size: 180px 180px;
+}
+
+/*---29---*/
+
+.ch-img-SULRIDE { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/SULRIDE.jpg);
+    background-size: 180px 180px;
+}
+
+
+/* ---------------Category 4 ends ----------------------- */
+
+
+/* ---------------Category 5 starts------------------------ */
+/*---30---*/
+
+/* .ch-img-NUCET-L { 
+	background-image: url(../IMG-SRC/ANTI-PSYCHOTICS/NUCET-L.jpg);
+    background-size: 180px 180px;
+} */
+
+/*---31---*/
+
+.ch-img-ANXITRIF { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/ANXITRIF.jpg);
+    background-size: 180px 180px;
+}
+
+/*---32---*/
+
+/* .ch-img-NUHEXY { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/NUHEXY.jpg);
+    background-size: 180px 180px;
+} */
+
+/*---33---*/
+
+.ch-img-CLOZY-0-5-1 { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/CLOZY-0.5-1.jpg);
+    background-size: 180px 180px;
+}
+
+/*---34---*/
+
+.ch-img-CLOZY-2 { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/CLOZY-2.jpg);
+    background-size: 180px 180px;
+}
+
+/*---35---*/
+
+.ch-img-CLOZY-MD-0-25-0-5 { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/CLOZY-MD.jpg);
+    background-size: 180px 180px;
+}
+
+/*---36---*/
+
+.ch-img-ETIFAST { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/ETIFAST.jpg);
+    background-size: 180px 180px;
+}
+
+/*---37---*/
+
+.ch-img-FLUMIGER { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/FLUMIGER.jpg);
+    background-size: 180px 180px;
+}
+
+/*---38---*/
+
+/* .ch-img-OLAX { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/OLAX.jpg);
+    background-size: 180px 180px;
+} */
+
+/*---39---*/
+
+.ch-img-HYPZOL-ZELOR { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/HYPZOL-ZELOR.jpg);
+    background-size: 180px 180px;
+}
+
+/*---40---*/
+
+.ch-img-NULAM-SR-NULAM-PLUS { 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/NULAM-SR-NULAM-PLUS.jpg);
+    background-size: 180px 180px;
+}
+
+/*---41---*/
+
+.ch-img-PROPER-TR{ 
+	background-image: url(../IMG-SRC/ANXIOLYTICS/PROPER-TR.jpg);
+    background-size: 180px 180px;
+}
+
+
+
+/* ---------------------category 5 ends --------------------- */
+
+
+/* ---------------------Category 6 strts -------------------- */
+
+.ch-img-ZELOR{ 
+	background-image: url(../IMG-SRC/INJECTABLES/ZELOR.jpg);
+    background-size: 180px 180px;
+}
+/* ---------------------Category 6 ends ---------------------- */
+
+
+/* ----------------------Category 7 starts -------------------- */
+
+.ch-img-BN-TONE_SPEEDY {
+    background-image: url(../IMG-SRC/LIQUIDS/BN-TONE-SPEEDY.jpg);
+    background-size: 180px 180px;
+}
+
+
+.ch-img-CYPUP-PLUS {
+    background-image: url(../IMG-SRC/LIQUIDS/CYPUP-PLUS.jpg);
+    background-size: 180px 180px;
+}
+
+.ch-img-HERBOCID {
+    background-image: url(../IMG-SRC/LIQUIDS/HERBOCID.jpg);
+    background-size: 180px 180px;
+}
+
+/* ----------------------Category 7 ends ----------------------- */
+
+
+/* --------------------category 8 starts ------------------------ */
+
+
+.ch-img-GABAGALA { 
+	background-image: url(../IMG-SRC/MISCELLANEOUS/GABAGALA.jpg);
+    background-size: 180px 180px;
+}
+
+/*---43---*/
+
+.ch-img-MULTI-VITAMIN { 
+	background-image: url(../IMG-SRC/MISCELLANEOUS/MULTI-VITAMIN.jpg);
+    background-size: 180px 180px;
+}
+
+/*---44---*/
+
+.ch-img-MUSCOFEN { 
+	background-image: url(../IMG-SRC/MISCELLANEOUS/MUSCOFEN.jpg);
+    background-size: 180px 180px;
+}
+
+/*---45---*/
+
+.ch-img-NECOQUIT { 
+	background-image: url(../IMG-SRC/MISCELLANEOUS/NECOQUIT.jpg);
+    background-size: 180px 180px;
+}
+
+/*---46---*/
+
+.ch-img-NUCETAM-400-800 { 
+	background-image: url(../IMG-SRC/MISCELLANEOUS/NUCETAM-400-800.jpg);
+    background-size: 180px 180px;
+}
+
+/*---47---*/
+
+.ch-img-TINZIL-TICOLINE { 
+	background-image: url(../IMG-SRC/MISCELLANEOUS/TINZIL-TICOLINE.jpg);
+    background-size: 180px 180px;
+}
+
+/*---48---*/
+
+.ch-img-TRAMA-P { 
+	background-image: url(../IMG-SRC/MISCELLANEOUS/TRAMA-P.jpg);
+    background-size: 180px 180px;
+}
+
+
+/* -------------catgory 8 ends ------------------- */
+
+
+/* -----------------Category 9 starts ----------------- */
+.ch-img-PPI {
+    background-image: url(../IMG-SRC/PPI/PPI.jpg);
+    background-size: 180px 180px;
+}
+
+/* -----------------Category 9 ends --------------------- */
+
+
+
+
+.ch-img-1 { 
+	background-image: url(../IMG-SRC/mirza.jpg);
+}
+
+.ch-img-2 { 
+	background-image: url(../IMG-SRC/nu.png) ;
+}
+
+.ch-img-3 { 
+	background-image: url(../IMG-SRC/icon3.png);
+}
+.ch-img-4 { 
+	background-image: url(../IMG-SRC/icon4.png);
+}
+
+.ch-img-5{ 
+	background-image: url(../IMG-SRC/icon5.png) ;
+}
+
+.ch-img-6 { 
+	background-image: url(../IMG-SRC/icon6.png);
+}
+.ch-img-7 { 
+	background-image: url(../IMG-SRC/icon1.png);
+}
+
+.ch-img-8 { 
+	background-image: url(../IMG-SRC/icon2.png) ;
+}
+
+
+.ch-info {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	opacity: 0;
+	
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	
+	-webkit-transform: scale(0);
+	-moz-transform: scale(0);
+	-o-transform: scale(0);
+	-ms-transform: scale(0);
+	transform: scale(0);
+	
+	-webkit-backface-visibility: hidden; /*for a smooth font */
+
+}
+.ch-info img
+{
+	width:33px;
+	height:34px;
+	margin-top:18%;
+}
+.ch-info h3 {
+	color: #fff;
+	text-transform: uppercase;
+	position: relative;
+	letter-spacing: 2px;
+	font-size: 15px;
+	padding: 15px 0 0 0;
+	text-shadow: 
+		0 0 1px #fff, 
+		0 1px 2px rgba(0,0,0,0.3);
+}
+
+.ch-info p {
+	color: #fff;
+	padding: 10px 5px;
+	font-style: italic;
+	margin: 0 30px;
+	font-size: 12px;
+}
+
+.ch-info p a {
+	display: block;
+	color: #fff;
+	color: rgba(255,255,255,0.7);
+	font-style: normal;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 9px;l
+	letter-spacing: 1px;
+	padding-top: 4px;
+}
+
+.ch-info p a:hover {
+	color: #fff222;
+	color: rgba(255,242,34, 0.8);
+}
+
+.ch-item:hover {
+	box-shadow: 
+		inset 0 0 0 110px rgba(27,188,155, 0.8),
+		inset 0 0 0 16px rgba(255,255,255,0.8),
+		0 1px 2px rgba(0,0,0,0.1);
+}
+
+.ch-item:hover .ch-info {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-o-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);	
+}
+.ch-grid {
+	margin: 20px 0 0 0;
+	padding: 0;
+	list-style: none;
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+
+.ch-grid:after,
+.ch-item:before {
+	content: '';
+    display: table;
+}
+
+.ch-grid:after {
+	clear: both;
+}
+
+.ch-grid li {
+	width: 176px;
+	height: 180px;
+	display: inline-block;
+	margin: 20px;
+}
+@media only screen and (max-width:1366px) and (min-width:1280px)
+
+{
+.ch-grid li {
+	margin: 10px;
+}
+}
+@media only screen and (max-width:640px) and (min-width:480px)
+{
+.ch-grid li {
+	margin: 0px;
+}
+}
+@media only screen and (max-width:320px) and (min-width:240px)
+{
+.ch-grid li {
+	margin: 0px;
+}
+}
